@@ -17,7 +17,7 @@
 
 **Ссылка на GitHub Pages:** https://elinaarutyunyan.github.io/
 
-**Ссылка на основной pull request:** [ВСТАВЬТЕ ССЫЛКУ]
+**Ссылка на основной pull request:** https://github.com/elinaarutyunyan/elinaarutyunyan.github.io/pull/2
 
 ---
 
